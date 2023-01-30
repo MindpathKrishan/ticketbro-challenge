@@ -1,0 +1,53 @@
+{
+    "id": "2",
+    "header": {
+        "title": "How to reduce System errors?",
+        "image": "/headerImg.png"
+    },
+    "author": {
+        "image": "/Avatar1.png",
+        "name": "Inés Guerrero",
+        "occupation": "Communitcation"
+    },
+    "description": [
+        {
+            "type": "highlited",
+            "content": "Imagine you are the owner of a business that has to be accessed through tickets. It's an autumn day, people are waiting in a queue under the rain. Your clients are getting cold and wet, probably not the best way to start the weekend, don´t you think?. How would you manage a weekend day when hundreds of people are lined up in front of your business?"
+        },
+        {
+            "type": "text",
+            "content": "The person at the entrance collecting the tickets is not going fast enough to get the large queue of people into the venue in less than 20 minutes of waiting. In this moment is when you think about the idea of having an online booking system. With an online booking system you will be able to know in advance how many people you are going to get each day, there will be no need for them to stand in a long line or wait because they will have done the work of paying and getting their ticket easily through their mobile.No queuing, no waiting line. The customer enters directly and easily with the ticket they have on their smartphone and has a great day at your venue. You may think thats not possible but, in the time it has taken you to read this article, approximately x minutes x people could have comfortably accessed your venue. While you do other things. Its a step into a new era of making money easily simply by having an online booking system. Let us help you manage your business and you, do the rest, that is whatever you want to do."
+        },
+        {
+            "type": "heading",
+            "content": "What do we consider to be the main advantages of having an online booking system?"
+        },
+        {
+            "type": "text",
+            "content": "Apart from the fact that you will still be able to sell tickets online at any time of the day. Your business will be closed and in the meantime, you will be able to see in real time how your customers buy tickets from their smartphone. You will have all the information about your venue and the information you need to manage it in your ticketbro app on your smartphone. You will be able to check how many people will visit your venue every day, how many tickets you have sold, how much money you have earned from sales. From anywhere in the world. You can create new types of tickets, as well as special days, manage the offers you want to put on specific days. Its time to forget about analogic and switch to digital. You will save time and money!"
+        }
+    ],
+    "releated": [
+        {
+            "title": "Three keys to keeping your customers satisfied.",
+            "image": "/recommended1.png",
+            "name": "Inés Guerrero",
+            "category": "News",
+            "publishDate": "Mar 20, 2023"
+        },
+        {
+            "title": "Top 5 booking features that makes a good booking system.",
+            "image": "/recommended2.png",
+            "name": "Mia Boskovic",
+            "category": "Business",
+            "publishDate": "Mar 20, 2023"
+        },
+        {
+            "title": "Faster sales with active analytics.",
+            "image": "/recommended3.png",
+            "name": "Inés Guerrero",
+            "category": "Customers",
+            "publishDate": "Mar 20, 2023"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.inner-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  height: 64px;
+  width: 64px;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  font-style: normal;
+  text-transform: capitalize;
+}
+
+.occupation {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+}
